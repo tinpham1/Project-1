@@ -4,7 +4,7 @@ var path = require("path");
 var mysql = require("mysql");
 
 var connection = mysql.createConnection({
-  socketPath     : '/cloudsql/autocomplete-tinner:us-central1:store:products',
+  host: "35.226.183.47",
   user: "root",
   password: "root",
   database: "products"
@@ -33,10 +33,14 @@ app.get("/search/:query", function(req, res) {
         console.log(error);
       }
 
-      for (const product of results) {
-        payload.push(product.name);
+      if (results && results.isArray && results.isArray()) {
+        for (const product of results) {
+          payload.push(product.name);
+        }
+        res.json(payload);
+      } else {
+        res.json([]);
       }
-      res.json(payload);
     }
   );
 });
