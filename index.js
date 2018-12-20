@@ -3,11 +3,14 @@ var app = express();
 var path = require("path");
 var mysql = require("mysql");
 
-var connection = mysql.createConnection({
-  host: "127.0.0.1",
+vvar connection = mysql.createConnection({
+  host: "localhost",
   user: "root",
   password: "root",
-  database: "products"
+  database: "products",
+  dialectOptions: {
+    socketPath: "/cloudsql/autocomplete-tinner:us-central1:store"
+  }
 });
 
 app.use(express.static("public"));
