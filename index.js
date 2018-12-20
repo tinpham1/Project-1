@@ -3,8 +3,9 @@ var app = express();
 var path = require("path");
 var mysql = require("mysql");
 
-var connection = mysql.createConnection({
-  host: "10.49.80.3",
+const connection = mysql.createPool({
+  connectionLimit: 1,
+  socketPath: "/cloudsql/autocomplete-tinner:us-central1:store:products",
   user: "root",
   password: "root",
   database: "products"
