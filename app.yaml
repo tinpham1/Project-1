@@ -6,6 +6,3 @@ handlers:
   script: auto
   secure: always
   redirect_http_response_code: 301
-
-  beta settings:
-      cloud_sql_instances: autocomplete-tinner:us-central1:store
