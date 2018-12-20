@@ -4,13 +4,10 @@ var path = require("path");
 var mysql = require("mysql");
 
 var connection = mysql.createConnection({
-  host: "localhost",
+  host: "10.49.80.3",
   user: "root",
   password: "root",
-  database: "products",
-  dialectOptions: {
-    socketPath: "/cloudsql/autocomplete-tinner:us-central1:store"
-  }
+  database: "products"
 });
 
 app.use(express.static("public"));
