@@ -3,7 +3,7 @@ var app = express();
 var path = require("path");
 var mysql = require("mysql");
 
-vvar connection = mysql.createConnection({
+var connection = mysql.createConnection({
   host: "localhost",
   user: "root",
   password: "root",
