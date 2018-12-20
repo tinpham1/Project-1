@@ -4,7 +4,7 @@ var path = require("path");
 var mysql = require("mysql");
 
 var connection = mysql.createConnection({
-  host: "/cloudsql/autocomplete-tinner:us-central1:store",
+  host: "127.0.0.1",
   user: "root",
   password: "root",
   database: "products"
