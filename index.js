@@ -5,7 +5,7 @@ var mysql = require("mysql");
 
 const connection = mysql.createPool({
   connectionLimit: 1,
-  socketPath: "/cloudsql/autocomplete-tinner:us-central1:store:products",
+  host: "10.49.80.3",
   user: "root",
   password: "root",
   database: "products"
