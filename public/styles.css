@@ -28,7 +28,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>tinner-test/index.html at master · Bergability/tinner-test</title>
+  <title>tinner-test/styles.css at master · Bergability/tinner-test</title>
     <meta name="description" content="Contribute to Bergability/tinner-test development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -38,10 +38,10 @@
     <meta property="og:image" content="https://avatars3.githubusercontent.com/u/8487624?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Bergability/tinner-test" /><meta property="og:url" content="https://github.com/Bergability/tinner-test" /><meta property="og:description" content="Contribute to Bergability/tinner-test development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzUzNTA3Mzg1OjgyZTg0MzkxMjA3YWMwOGIxZmVhMDA2OWQzNzIzMzE2NjMwYjQ4NGVmMjZiZDc0ZWVhZWQ4OWZmMjczN2JkYmE=--ec0706bde7bcc5a895e40281a1f4c129423ef3c3">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzUzNTA3Mzg1OmZhMDFmOTUzNDM1NWQxMDdkYzU1NmUwZTJjOTI5YTFhMTRlNTVkM2U3NzhkZjBkMGFkNTE1NmEyYTk2MWU4ZGQ=--4486921cb0acba651199187dee3529c55b4e3e7c">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="F941:4736:2F39079:57C6724:5C1B26BE" data-pjax-transient>
+  <meta name="request-id" content="F941:4736:2F38DFC:57C61C3:5C1B26AD" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="F941:4736:2F39079:57C6724:5C1B26BE" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="45959086" /><meta name="octolytics-actor-login" content="tinpham1" /><meta name="octolytics-actor-hash" content="15a2eeb25437c31aa3d020368743732ff24a96aeae8dad2e25945bed0e52ec1d" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="F941:4736:2F38DFC:57C61C3:5C1B26AD" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="45959086" /><meta name="octolytics-actor-login" content="tinpham1" /><meta name="octolytics-actor-hash" content="15a2eeb25437c31aa3d020368743732ff24a96aeae8dad2e25945bed0e52ec1d" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="tinpham1">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="ZGU5MWVmYjY3ODM2NGEwZmIyMDRjNjQyOTFmZjMzMDI4MmY0YzQ1NmI0MzRiYTNlY2Q1Njg1ODkxYzE1OTJkYXx7InJlbW90ZV9hZGRyZXNzIjoiMTYyLjIwMi4yMDUuNzciLCJyZXF1ZXN0X2lkIjoiRjk0MTo0NzM2OjJGMzkwNzk6NTdDNjcyNDo1QzFCMjZCRSIsInRpbWVzdGFtcCI6MTU0NTI4MzI2OCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="YTQyMDkxZjY1ZTZiYjBlODYwNzUzY2RlMzhlYWJkMjA3NGU4MjZiYTcyODZkYzllZjIzMGZkZTY0YmY0ZTk1Ynx7InJlbW90ZV9hZGRyZXNzIjoiMTYyLjIwMi4yMDUuNzciLCJyZXF1ZXN0X2lkIjoiRjk0MTo0NzM2OjJGMzhERkM6NTdDNjFDMzo1QzFCMjZBRCIsInRpbWVzdGFtcCI6MTU0NTI4MzI1OCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="DASHBOARD_V2_LAYOUT_OPT_IN,EXPLORE_DISCOVER_REPOSITORIES,UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,NOTIFY_ON_BLOCK,RELATED_ISSUES,MARKETPLACE_INSIGHTS_V2">
 
@@ -80,14 +80,14 @@
   <meta http-equiv="x-pjax-version" content="fd5a8ba2d0aeda7bb6b5ad4a9d4c8c11">
   
 
-      <link href="https://github.com/Bergability/tinner-test/commits/master.atom?token=Ar1HrnPeeMvTc2tBMMkSd7gHK4-_YNvCks66KFlEwA%3D%3D" rel="alternate" title="Recent Commits to tinner-test:master" type="application/atom+xml">
+      <link href="https://github.com/Bergability/tinner-test/commits/master.atom?token=Ar1HrghE8UkPAt6KBVbypDUWk9TCYEq4ks66KFk5wA%3D%3D" rel="alternate" title="Recent Commits to tinner-test:master" type="application/atom+xml">
 
   <meta name="go-import" content="github.com/Bergability/tinner-test git https://github.com/Bergability/tinner-test.git">
 
   <meta name="octolytics-dimension-user_id" content="8487624" /><meta name="octolytics-dimension-user_login" content="Bergability" /><meta name="octolytics-dimension-repository_id" content="162243340" /><meta name="octolytics-dimension-repository_nwo" content="Bergability/tinner-test" /><meta name="octolytics-dimension-repository_public" content="false" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="162243340" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Bergability/tinner-test" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/Bergability/tinner-test/blob/master/index.html" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/Bergability/tinner-test/blob/master/public/styles.css" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -156,7 +156,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=Mkhkmpi2tWMsGKW1/2T/u1uBfAqwI6xyKYaxlIav93oeuP+XnqbNmmQKER2yKSLZN0cdvDnZSinPK/rRMigHCQ=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=THQVzaY7H71wrRKExVhVqUhbco90MH6PVbOtuFM1fPpghI7AoCtnRDi/piyIFYjLJJ0TOf3KmNSzHub957KMiQ=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -383,7 +383,7 @@
           <li><a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a></li>
           <li><a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a></li>
           <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="KAX/TXcsxojQy0F0LB48JuMbSo8uDNgIPCJn5rVUzqWgeUWvRvDd9UvAyai+pYNQb/ZdH7GFRG6J/SCcL3ERLA==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="n/fZxWR1wu1ReYXdvvfiK8/iX58xQu7n+ojbOsrPnZMXi2MnVanZkMpyDQEsTF1dQw9ID67LcoFPV5xAUOpCGg==" />
               
               <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
                 Sign out
@@ -397,7 +397,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="75yJyN+3rtKRZrDFs5qLm0HX3UPbHL0R0hbB7vgGdhpn4DMq7mu1rwptOBkhITTtzTrK00SVIXdnyYaUYiOpkw==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="32kH/KeCvUdRkE54ABrBjANcSW+jKHMc5By7bXPn4yBXFb0ell6mOsqbxqSSoX76j7Fe/zyh73pRw/wX6cI8qQ==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -434,7 +434,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="tkXBhF6RsYHU5KezmFYx8IKvfgrPTGAQu0291b81kX1DSOettTiyclZZf3IU311odT+phZoEjnL9fiZuFjX1yg==" />      <input type="hidden" name="repository_id" id="repository_id" value="162243340" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="NR2ZbEIfm61i5K8oTNbvKadcsyEvr+1LFWtYQFCh5OnAEL9FqbaYXuBZd+nAX4OxUMxkrnrnAylTWMP7+aGAXg==" />      <input type="hidden" name="repository_id" id="repository_id" value="162243340" class="form-control" />
 
       <details class="details-reset details-overlay select-menu float-left">
         <summary class="btn btn-sm btn-with-count select-menu-button" data-ga-click="Repository, click Watch settings, action:blob#show">
@@ -508,7 +508,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/Bergability/tinner-test/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="RmuQm4gNYMpOWZZWdapjHNezCdS2GB4jI8AynR3U9y9wZ6FalzgekupuS74E3q2yS953TGgyjeG1cO2vZ1x45g==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/Bergability/tinner-test/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="NB55Xlj5NKFFjT47STDEdbpISU/X/Nnp+SoLBDaLy2ECEkifR8xK+eG649M4RArbJiU31wnWSitvmtQ2TANEqA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -523,7 +523,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/Bergability/tinner-test/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="o8Bwp1MonrC5EnGEfNnVgvHkHc9bVoYxhLXD6XwIKcnmbRZDH+zw7iCAhVjOgrLWuQJfCzStH585zzBxchotvQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/Bergability/tinner-test/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="YUXXnlNAq5ukE8e//ZYZmSvqOpL/M41rVZ9Kd4BZDJok6LF6H4TFxT2BM2NPzX7NYwx4VpDIFMXo5bnvjksI7g==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -542,7 +542,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/Bergability/tinner-test/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="96sGajs0jhGUdIktzxBgxCEPBNTbVSeoidIZNbl8WySESV74nOHkGXSlcdAJa0v/qn4QPPLVICAMfO0OMCbBqw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/Bergability/tinner-test/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="CSTg5QRy+r40X/QJPDWoZ3UuuuOi64qjUQmaG/006JN6xrh3o6eQttSODPT6ToNc/l+uC4trjSvUp24gdG5yHA==" />
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -630,9 +630,9 @@
 
 
   
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Bergability/tinner-test/blob/0f0a6b3455bd8f02e118124b1d22c97ba2f6d8e2/index.html">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Bergability/tinner-test/blob/0f0a6b3455bd8f02e118124b1d22c97ba2f6d8e2/public/styles.css">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:ca72e26cf3df9fc7e961999d633c76a5 -->
+    <!-- blob contrib key: blob_contributors:v21:fb0508778861f79717cceae11f8da724 -->
 
     
 
@@ -675,7 +675,7 @@
 <div class="select-menu-list" role="tabpanel">
   <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
       <a class="select-menu-item js-navigation-item js-navigation-open selected"
-         href="/Bergability/tinner-test/blob/master/index.html"
+         href="/Bergability/tinner-test/blob/master/public/styles.css"
          data-name="master"
          data-skip-pjax="true"
          rel="nofollow">
@@ -686,10 +686,10 @@
       </a>
   </div>
 
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="select-menu-new-item-form js-new-item-form" action="/Bergability/tinner-test/branches" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="TrTLu+eW0eyJepJynKwB/EVFRDYZeS+X8KXpAWeTvOwuAZD+1v/BPrry8ZsahZhsEQhN4gANUa/7ldbR4JE2Ig==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="select-menu-new-item-form js-new-item-form" action="/Bergability/tinner-test/branches" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/mtjzkzgn+lx507d7cLhGZFRmNop4XT4lYJ3ihf+pOue3jiLfYmPO0JvLTRr63iJxRyRDjCVCsCeskhakPwuJQ==" />
       <input type="hidden" name="name" id="name" class="js-new-item-value">
       <input type="hidden" name="branch" id="branch" value="master">
-      <input type="hidden" name="path_binary" id="path_binary" value="aW5kZXguaHRtbA==">
+      <input type="hidden" name="path_binary" id="path_binary" value="cHVibGljL3N0eWxlcy5jc3M=">
 
       <button type="submit" class="width-full select-menu-item js-navigation-open js-navigation-item">
         <svg class="octicon octicon-git-branch select-menu-item-icon" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
@@ -726,12 +726,12 @@
         </clipboard-copy>
       </div>
       <div id="blob-path" class="breadcrumb">
-        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/Bergability/tinner-test"><span>tinner-test</span></a></span></span><span class="separator">/</span><strong class="final-path">index.html</strong>
+        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/Bergability/tinner-test"><span>tinner-test</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Bergability/tinner-test/tree/master/public"><span>public</span></a></span><span class="separator">/</span><strong class="final-path">styles.css</strong>
       </div>
     </div>
 
 
-    <include-fragment src="/Bergability/tinner-test/contributors/master/index.html" class="commit-tease commit-loader">
+    <include-fragment src="/Bergability/tinner-test/contributors/master/public/styles.css" class="commit-tease commit-loader">
       <div>
         Fetching contributors&hellip;
       </div>
@@ -751,9 +751,9 @@
 
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/Bergability/tinner-test/raw/master/index.html">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/Bergability/tinner-test/blame/master/index.html">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/Bergability/tinner-test/commits/master/index.html">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/Bergability/tinner-test/raw/master/public/styles.css">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/Bergability/tinner-test/blame/master/public/styles.css">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/Bergability/tinner-test/commits/master/public/styles.css">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -763,13 +763,13 @@
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/Bergability/tinner-test/edit/master/index.html" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="N/0lHtJJTRbA4YGOrrcfON7cX2mPurnXPh8B8PslkEUEEdvlUHS/XZsOZCsBO/xSS1UpNgJquqDpjJ99IsTvdg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/Bergability/tinner-test/edit/master/public/styles.css" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="me13nEZ7ddEXrWyz+c2C0Z24IWiZK5BGZ7OJmMrFpPsKSnbLaXqvHIrxQ6peBFS/UM4NBJJgXcgAdDEO5oVMMQ==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit this file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Bergability/tinner-test/delete/master/index.html" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="2hCUpZ61JjCP0Kr8XZpEnTrKh3E/H3nAAtmjdM9rT6O5JIvQ6HCJEjI+atlff631IWOq61ifYaKnNDcqhvFAbA==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Bergability/tinner-test/delete/master/public/styles.css" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="7pombJoEKkPuWwGouY49pfA+NeLFDTM+P0nXKHYLIGL849KgXC+35DJzdU2UcolyKpM62nmRyvbae3ledA3S8A==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete this file" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -777,242 +777,236 @@
 </form>  </div>
 
   <div class="file-info">
-      57 lines (52 sloc)
+      54 lines (45 sloc)
       <span class="file-info-divider"></span>
-    1.44 KB
+    782 Bytes
   </div>
 </div>
 
       
 
-  <div itemprop="text" class="blob-wrapper data type-html ">
+  <div itemprop="text" class="blob-wrapper data type-css ">
       
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
       <tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">html</span>&gt;</td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">*</span> {</td>
       </tr>
       <tr>
         <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line">  &lt;<span class="pl-ent">head</span>&gt;</td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">font-family</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>Open Sans<span class="pl-pds">&quot;</span></span>, <span class="pl-c1">sans-serif</span> <span class="pl-k">!important</span>;</td>
       </tr>
       <tr>
         <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line">    &lt;<span class="pl-ent">title</span>&gt;Hello World&lt;/<span class="pl-ent">title</span>&gt;</td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line">    &lt;<span class="pl-ent">script</span></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line">      <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>https://code.jquery.com/jquery-3.3.1.min.js<span class="pl-pds">&quot;</span></span></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">body</span> {</td>
       </tr>
       <tr>
         <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line">      <span class="pl-e">integrity</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=<span class="pl-pds">&quot;</span></span></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">background-color</span></span>: <span class="pl-c1">#cdd6d5</span>;</td>
       </tr>
       <tr>
         <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line">      <span class="pl-e">crossorigin</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>anonymous<span class="pl-pds">&quot;</span></span></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#eef4f2</span>;</td>
       </tr>
       <tr>
         <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line">    &gt;&lt;/<span class="pl-ent">script</span>&gt;</td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">100<span class="pl-k">%</span></span>;</td>
       </tr>
       <tr>
         <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code blob-code-inner js-file-line">    &lt;<span class="pl-ent">link</span></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line">      <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>https://fonts.googleapis.com/css?family=Open+Sans:400,700,800<span class="pl-pds">&quot;</span></span></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line">      <span class="pl-e">rel</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>stylesheet<span class="pl-pds">&quot;</span></span></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">header</span> {</td>
       </tr>
       <tr>
         <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line">    /&gt;</td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">position</span></span>: <span class="pl-c1">relative</span>;</td>
       </tr>
       <tr>
         <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code blob-code-inner js-file-line">    &lt;<span class="pl-ent">script</span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>https://cdnjs.cloudflare.com/ajax/libs/corejs-typeahead/1.2.1/bloodhound.js<span class="pl-pds">&quot;</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;</td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">display</span></span>: <span class="pl-c1">block</span>;</td>
       </tr>
       <tr>
         <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="LC14" class="blob-code blob-code-inner js-file-line">    &lt;<span class="pl-ent">script</span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>typeahead.js<span class="pl-pds">&quot;</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;</td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">background-color</span></span>: <span class="pl-c1">#415b76</span>;</td>
       </tr>
       <tr>
         <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td id="LC15" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">100<span class="pl-k">%</span></span>;</td>
       </tr>
       <tr>
         <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code blob-code-inner js-file-line">    &lt;<span class="pl-ent">link</span> <span class="pl-e">rel</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>stylesheet<span class="pl-pds">&quot;</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>/reset.css<span class="pl-pds">&quot;</span></span> /&gt;</td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">text-align</span></span>: <span class="pl-c1">center</span>;</td>
       </tr>
       <tr>
         <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
-        <td id="LC17" class="blob-code blob-code-inner js-file-line">    &lt;<span class="pl-ent">link</span> <span class="pl-e">rel</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>stylesheet<span class="pl-pds">&quot;</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>/styles.css<span class="pl-pds">&quot;</span></span> /&gt;</td>
-      </tr>
-      <tr>
-        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
-        <td id="LC18" class="blob-code blob-code-inner js-file-line">  &lt;/<span class="pl-ent">head</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
-        <td id="LC19" class="blob-code blob-code-inner js-file-line">  &lt;<span class="pl-ent">body</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
-        <td id="LC20" class="blob-code blob-code-inner js-file-line">    &lt;<span class="pl-ent">header</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
-        <td id="LC21" class="blob-code blob-code-inner js-file-line">      &lt;<span class="pl-ent">h1</span>&gt;Things and stuff&lt;/<span class="pl-ent">h1</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="LC22" class="blob-code blob-code-inner js-file-line">      &lt;<span class="pl-ent">input</span> <span class="pl-e">id</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>typeahead<span class="pl-pds">&quot;</span></span> <span class="pl-e">type</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>text<span class="pl-pds">&quot;</span></span> /&gt;</td>
-      </tr>
-      <tr>
-        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
-        <td id="LC23" class="blob-code blob-code-inner js-file-line">    &lt;/<span class="pl-ent">header</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
-        <td id="LC24" class="blob-code blob-code-inner js-file-line">
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">
 </td>
       </tr>
       <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">  <span class="pl-c"><span class="pl-c">/*</span> display: flex;</span></td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-c">  justify-content: space-between; <span class="pl-c">*/</span></span></td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">padding</span></span>: <span class="pl-c1">20<span class="pl-k">px</span></span>;</td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">}</td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">header</span> <span class="pl-ent">h1</span> {</td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span>;</td>
+      </tr>
+      <tr>
         <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
-        <td id="LC25" class="blob-code blob-code-inner js-file-line">    &lt;<span class="pl-ent">script</span>&gt;<span class="pl-s1"></span></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">font-size</span></span>: <span class="pl-c1">24<span class="pl-k">px</span></span>;</td>
       </tr>
       <tr>
         <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
-        <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">      <span class="pl-k">var</span> productSearch <span class="pl-k">=</span> <span class="pl-k">new</span> <span class="pl-en">Bloodhound</span>({</span></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">margin-bottom</span></span>: <span class="pl-c1">20<span class="pl-k">px</span></span>;</td>
       </tr>
       <tr>
         <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
-        <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">        <span class="pl-en">datumTokenizer</span><span class="pl-k">:</span> <span class="pl-k">function</span>(<span class="pl-smi">datum</span>) {</span></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
-        <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">          <span class="pl-k">return</span> <span class="pl-smi">Bloodhound</span>.<span class="pl-smi">tokenizers</span>.<span class="pl-en">whitespace</span>(<span class="pl-smi">datum</span>.<span class="pl-c1">value</span>);</span></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
-        <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">        },</span></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">header</span> <span class="pl-ent">input</span> {</td>
       </tr>
       <tr>
         <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
-        <td id="LC30" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">        queryTokenizer<span class="pl-k">:</span> <span class="pl-smi">Bloodhound</span>.<span class="pl-smi">tokenizers</span>.<span class="pl-smi">whitespace</span>,</span></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">position</span></span>: <span class="pl-c1">relative</span>;</td>
       </tr>
       <tr>
         <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
-        <td id="LC31" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">        remote<span class="pl-k">:</span> {</span></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">display</span></span>: <span class="pl-c1">block</span>;</td>
       </tr>
       <tr>
         <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
-        <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">          url<span class="pl-k">:</span> <span class="pl-smi">location</span>.<span class="pl-smi">origin</span> <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">&quot;</span>/search/%QUERY<span class="pl-pds">&quot;</span></span>,</span></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">background-color</span></span>: <span class="pl-c1">#cdd6d5</span>;</td>
       </tr>
       <tr>
         <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
-        <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">          wildcard<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&quot;</span>%QUERY<span class="pl-pds">&quot;</span></span>,</span></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">border</span></span>: <span class="pl-c1">solid</span> <span class="pl-c1">2<span class="pl-k">px</span></span> <span class="pl-c1">#233656</span>;</td>
       </tr>
       <tr>
         <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
-        <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">          <span class="pl-en">filter</span><span class="pl-k">:</span> <span class="pl-smi">data</span> <span class="pl-k">=&gt;</span> {</span></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">padding</span></span>: <span class="pl-c1">5<span class="pl-k">px</span></span> <span class="pl-c1">10<span class="pl-k">px</span></span>;</td>
       </tr>
       <tr>
         <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
-        <td id="LC35" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">            <span class="pl-en">console</span>.<span class="pl-c1">log</span>(data);</span></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">500<span class="pl-k">px</span></span>;</td>
       </tr>
       <tr>
         <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
-        <td id="LC36" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">            <span class="pl-k">return</span> data;</span></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
-        <td id="LC37" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">          }</span></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
-        <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">        }</span></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.tt-menu</span> {</td>
       </tr>
       <tr>
         <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
-        <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">      });</span></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">text-align</span></span>: <span class="pl-c1">left</span>;</td>
       </tr>
       <tr>
         <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
-        <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">100<span class="pl-k">%</span></span>;</td>
       </tr>
       <tr>
         <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
-        <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">      <span class="pl-c"><span class="pl-c">//</span> Initialize the Bloodhound suggestion engine</span></span></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">background-color</span></span>: <span class="pl-c1">#cdd6d5</span>;</td>
       </tr>
       <tr>
         <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
-        <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">      <span class="pl-smi">productSearch</span>.<span class="pl-en">initialize</span>();</span></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">border</span></span>: <span class="pl-c1">solid</span> <span class="pl-c1">2<span class="pl-k">px</span></span> <span class="pl-c1">#233656</span>;</td>
       </tr>
       <tr>
         <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
-        <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#233656</span>;</td>
       </tr>
       <tr>
         <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
-        <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">      <span class="pl-en">$</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>#typeahead<span class="pl-pds">&quot;</span></span>).<span class="pl-en">typeahead</span>(</span></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
-        <td id="LC45" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">        {</span></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
-        <td id="LC46" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">          hint<span class="pl-k">:</span> <span class="pl-c1">true</span>,</span></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.tt-suggestion</span> {</td>
       </tr>
       <tr>
         <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
-        <td id="LC47" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">          highlight<span class="pl-k">:</span> <span class="pl-c1">true</span>,</span></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">padding</span></span>: <span class="pl-c1">10<span class="pl-k">px</span></span> <span class="pl-c1">5<span class="pl-k">px</span></span>;</td>
       </tr>
       <tr>
         <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
-        <td id="LC48" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">          minLength<span class="pl-k">:</span> <span class="pl-c1">1</span></span></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
-        <td id="LC49" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">        },</span></td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
-        <td id="LC50" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">        {</span></td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.tt-cursor</span> {</td>
       </tr>
       <tr>
         <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
-        <td id="LC51" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">          source<span class="pl-k">:</span> <span class="pl-smi">productSearch</span>.<span class="pl-en">ttAdapter</span>()</span></td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">background-color</span></span>: <span class="pl-c1">#233656</span>;</td>
       </tr>
       <tr>
         <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
-        <td id="LC52" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">        }</span></td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#cdd6d5</span>;</td>
       </tr>
       <tr>
         <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
-        <td id="LC53" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">      );</span></td>
-      </tr>
-      <tr>
-        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
-        <td id="LC54" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">    </span>&lt;/<span class="pl-ent">script</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
-        <td id="LC55" class="blob-code blob-code-inner js-file-line">  &lt;/<span class="pl-ent">body</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
-        <td id="LC56" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">html</span>&gt;</td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
 </table>
 
@@ -1024,7 +1018,7 @@
       <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2">
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Bergability/tinner-test/blame/0f0a6b3455bd8f02e118124b1d22c97ba2f6d8e2/index.html">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Bergability/tinner-test/blame/0f0a6b3455bd8f02e118124b1d22c97ba2f6d8e2/public/styles.css">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Bergability/tinner-test/issues/new">Open new issue</a></li>
       </ul>
     </details-menu>
@@ -1060,7 +1054,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.31088s from unicorn-6bc49d545-2kr72">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.31466s from unicorn-6bc49d545-xqf2h">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
