@@ -5,7 +5,7 @@ var mysql = require("mysql");
 
 const connection = mysql.createPool({
   connectionLimit: 1,
-  host: "10.49.80.3",
+  host: "35.226.183.47",
   user: "root",
   password: "root",
   database: "products"
@@ -34,7 +34,7 @@ app.get("/search/:query", function(req, res) {
         console.log(error);
       }
 
-      if (results && results.isArray && results.isArray()) {
+      if (results) {
         for (const product of results) {
           payload.push(product.name);
         }
