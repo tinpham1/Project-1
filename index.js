@@ -1,15 +1,44 @@
+require("dotenv").config();
 var express = require("express");
 var app = express();
 var path = require("path");
 var mysql = require("mysql");
+const Knex = require("knex");
 
-const connection = mysql.createPool({
-  connectionLimit: 1,
-  host: "35.226.183.47",
-  user: "root",
-  password: "root",
-  database: "products"
-});
+app.enable("trust proxy");
+
+const knex = connect();
+
+function connect() {
+  // [START gae_flex_mysql_connect]
+  const config = {
+    user: process.env.SQL_USER,
+    password: process.env.SQL_PASSWORD,
+    database: process.env.SQL_DATABASE
+  };
+
+  if (
+    process.env.INSTANCE_CONNECTION_NAME &&
+    process.env.NODE_ENV === "production"
+  ) {
+    config.socketPath = `/cloudsql/${process.env.INSTANCE_CONNECTION_NAME}`;
+  } else {
+    config.host = "35.226.183.47";
+  }
+
+  // Connect to the database
+  const connection = Knex({
+    client: "mysql",
+    connection: config
+  });
+  // [END gae_flex_mysql_connect]
+
+  return connection;
+}
+
+function searchProducts(query) {}
+
+// searchProducts("call");
 
 app.use(express.static("public"));
 
@@ -23,27 +52,19 @@ app.get("/search", function(req, res) {
 
 app.get("/search/:query", function(req, res) {
   const query = req.params.query;
-  const payload = [];
-
-  // Do logic to get data
-  // SQL database connection
-  connection.query(
-    `SELECT name FROM products where name LIKE '%${query}%' LIMIT 10`,
-    function(error, results, fields) {
-      if (error) {
-        console.log(error);
-      }
-
-      if (results) {
-        for (const product of results) {
-          payload.push(product.name);
-        }
-        res.json(payload);
-      } else {
-        res.json([]);
-      }
-    }
-  );
+  knex
+    .select("*")
+    .from("products")
+    .where("name", "like", `%${query}%`)
+    .limit(10)
+    .then(results => {
+      const map = results.map(product => product.name);
+      res.send(map);
+    })
+    .catch(e => {
+      console.log(e);
+      res.send([]);
+    });
 });
 
-app.listen(process.env.PORT ? process.env.PORT : 8080);
+app.listen(process.env.PORT || 8080);
